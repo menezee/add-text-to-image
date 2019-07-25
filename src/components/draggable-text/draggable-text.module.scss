@@ -1,0 +1,10 @@
+.draggable {
+  position: fixed;
+
+  &__text {
+    color: white;
+    font-size: 2rem;
+    border: 0;
+    background-color: unset;
+  }
+}
